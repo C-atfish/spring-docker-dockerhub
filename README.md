@@ -30,7 +30,7 @@ Access token må ha "repo" tillatelser, og "workflow" tillatelser.
 
 ### Lage en klone av din Fork (av dette repoet) inn i ditt Cloud 9 miljø
 
-Fra Terminal i Cloud 9. Klone repository med HTTPS URL. Eksempel ;
+Fra Terminal i Cloud 9. Klone repository med HTTPS URL. Eksempel;
 
 ```
 git clone https://github.com/≤github bruker>/spring-docker-dockerhub.git
